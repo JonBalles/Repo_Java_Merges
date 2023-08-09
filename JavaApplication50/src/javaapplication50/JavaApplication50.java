@@ -18,6 +18,7 @@ public class JavaApplication50 {
         System.out.println("Tomás Bresca");
         
         System.out.println("Otra prueba");
+         System.out.println("Otra prueba , soy manuel");
 
     }
 
